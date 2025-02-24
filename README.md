@@ -8,7 +8,12 @@ A basic text editor for CYB 3053 - Operating Systems Concepts at The University 
 - Clone repository to local machine
 - Open Terminal / Command Prompt and navigate to the directory you cloned the repository to
 - Run `make`
-- Run `./kilo`
+- Run `./kilo [<filename>]`
+
+## Usage
+- CTRL-S : Save
+- CTRL-Q : Quit
+- CTRL-F : Find
 
 ## References
 - https://viewsourcecode.org/snaptoken/kilo/index.html
